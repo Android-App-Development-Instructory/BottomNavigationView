@@ -13,5 +13,13 @@
         android:title="About"
         android:id="@+id/nav_about"
         android:icon="@drawable/ic_baseline_account_box_24"/>
+    <item
+        android:title="About2"
+        android:id="@+id/nav_about2"
+        android:icon="@drawable/ic_baseline_account_box_24"/>
+    <item
+        android:title="About3"
+        android:id="@+id/nav_about3"
+        android:icon="@drawable/ic_baseline_account_box_24"/>
 
 </menu>
